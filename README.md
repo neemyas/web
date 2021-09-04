@@ -35,5 +35,4 @@
 <h5 align="center">
  Licença <a href="https://github.com/christyanbrayan/site-google-glass/blob/master/LICENSE"> MIT </a>
  <br>
- &lt;/&gt; by <a href="https://github.com/christyanbrayan"> christyanbrayan </a>
 </h5>
